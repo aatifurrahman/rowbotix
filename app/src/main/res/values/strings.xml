@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Rowbotix</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_language">Language</string>
+    <string name="title_activity_ble_device">Discover Devices</string>
+
+
+    <string name="wheel_no">Wheel No</string>
+    <string name="enter_wheel_no">Enter wheel no</string>
+    <string name="distance">Distance</string>
+    <string name="enter_distance">Enter distance</string>
+    <string name="fertilizer">Fertilizer</string>
+    <string name="enter_fertilizer_in_kg">Enter Fertilizer in kg</string>
+    <string name="total_rows">Total Rows</string>
+    <string name="enter_number_of_rows">Enter number of rows</string>
+    <string name="row_distance">Row Distance</string>
+    <string name="enter_row_distance_in_inches">Enter row distance in inches</string>
+    <string name="save">Save</string>
+    <string name="send">Send</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="search_button_text">Searches for the BLE devices over bluetooth</string>
+    <string name="error_fill_all_fields">Please fill all fields</string>
+</resources>
